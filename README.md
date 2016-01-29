@@ -4,7 +4,7 @@ This project is an 8051 based electronic keypad lock. A 5-digit password is hard
 
 For greater protection, a buzzer is connected to 1-bit of microcontroller which is always HIGH. If the controller is taken out of the base or the IC is damaged or the power supply is disconnected the relay will change its state and turn on the alarm/buzzer. 
 
-The demonstration of the this project can be seen in the youtube video linked as follows:
+The demonstration of this project can be seen in the youtube video linked as follows:
 
 https://www.youtube.com/watch?v=7_CF9adKvfA 
 
